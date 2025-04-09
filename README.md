@@ -1,6 +1,6 @@
 # Keyword Visualizer App
 
-**Keyword Visualizer App**데이터를 분석하여 핵심 키워드를 시각화하는 텍스트 마이닝 기반 앱입니다.  
+**Keyword Visualizer App**은 데이터를 분석하여 핵심 키워드를 시각화하는 텍스트 마이닝 기반 앱입니다.  
 Streamlit 웹앱 또는 콘솔 환경에서 실행 가능하며, 워드클라우드, 키워드 빈도 분석, 뉴스 크롤링 기능 등을 제공합니다.
 
 ---
