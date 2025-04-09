@@ -13,18 +13,6 @@ Streamlit 웹앱 또는 콘솔 환경에서 실행 가능하며, 워드클라우
 - 🌐 네이버 뉴스 실시간 크롤링
 - 🖥️ 콘솔/웹앱(Streamlit) 양쪽 지원
 
----
-
-## 🗂️ 디렉토리 구조
-
-├── KeywordVisualizeConsoleApp.py         # 콘솔 실행용 앱
-├── keywordVisualizerSTApp.py             # Streamlit 앱 메인
-├── data/                                 # 리뷰 및 뉴스 데이터
-├── lib/                                  # 기능 모듈
-│   ├── myTextMining.py                   # 텍스트 마이닝 기능
-│   ├── NaverNewsCrawler.py               # 뉴스 크롤러
-│   ├── STVisualizer.py                   # 시각화 처리
-│   └── __pycache__/                      # 캐시 파일
 
 ## 🚀 실행 방법
 
